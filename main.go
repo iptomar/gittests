@@ -107,7 +107,6 @@ func GetUsers(c *gin.Context) {
 
     c.JSON(200, users)
 
-// curl -i http://localhost:8080/api/v1/users
 }
 
 func GetUser(c *gin.Context) {
@@ -125,7 +124,6 @@ func GetUser(c *gin.Context) {
         c.JSON(404, content)
     }
 
-// curl -i http://localhost:8080/api/v1/users/1
 }
 
 func UpdateUser(c *gin.Context) {
