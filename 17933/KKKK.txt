@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Ola Barcelos!
 
 
@@ -6,5 +6,5 @@ Ola Barcelos!
 kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 =======
 Ola meus amigos!
-Sou de Viseu
->>>>>>> origin/master
+
+
