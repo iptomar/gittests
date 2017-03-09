@@ -1,6 +1,6 @@
 # gittests
 
-TRUST ON MY DEAGLE NOW LULULUL  :fire:  :fire:   :zero: to :100: :rocket:  :fire:  :fire:
+ :crown:  :crown: MASTER SILVA !!!  :crown:  :crown:
 
-![alt text](http://alumni.ipt.pt/~rbarcelo/RecursoIMG/fpIMG.jpg "Master Barcelos")
+![alt text](http://alumni.ipt.pt/~mifsilva/imagem.jpg "Lord Silva")
 
