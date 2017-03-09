@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+﻿O Diogo não é fixe
+O canoso é gay
+Aqui não há testes, só se ofende pessoas
+O Benfas levou 4 :)
+=======
 ﻿Apaguei tudo só por causa das teimas
 
 
@@ -16,3 +22,4 @@
                        _,##'`-._,##'`
                     _,##'`-._,##'`
                       `-._,##'`
+>>>>>>> origin/master
