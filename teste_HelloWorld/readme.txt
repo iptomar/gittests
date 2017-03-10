@@ -1,11 +1,11 @@
 Diogo Mendes - 10/03/2017
 
-Teste introdutório com um exemplo de um hello world numa página 
+Teste introdutÃ³rio com um exemplo de um hello world numa pÃ¡gina 
 html e um estilo definido pela biblioteca bootstrap,
-conseguido seguinto o tutorial disponível em:
+conseguido seguindo o tutorial disponÃ­vel em:
 >https://www.youtube.com/watch?v=sEzgVn9Jb2c
 
-Para funcionar têm que importar uma biblioteca da gorilla framework 
+Para funcionar tÃªm que importar uma biblioteca da gorilla framework 
 na linha de comandos do git:
 >go env
 >export GOPATH={absolute_path}\teste_GO
